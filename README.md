@@ -8,7 +8,7 @@ YouTube clone is built using HTML and CSS. It replicates the basic functionality
 Setup Instructions
 Clone the Repository: Begin by cloning this repository to your local machine using Git.
 
-git clone https://https://github.com/Kamal9305/YouTube_CloneProject.git
+git clone https://github.com/Kamal9305/YouTube_CloneProject.git
 
 Project Structure
 Youtube.html: This file serves as the main entry point for our application. It contains the structure of the webpage, including headers, navigation, video display area, etc.
